@@ -1,2 +1,2 @@
 # HTML-CSS
-HTML and CSS course
+This are my first steps in programming with HTML and CSS.
